@@ -16,34 +16,15 @@
 
 ## Sobre mí
 
-Ingeniero en TI con base en infraestructura y redes, hoy enfocado en desarrollo full-stack: aplicaciones empresariales para los sectores financiero y de ciberseguridad, con Angular, TypeScript, .NET/C#, Node.js/NestJS y AWS.
+Ingeniero en TI con base en infraestructura y redes, hoy enfocado en desarrollo full-stack: aplicaciones empresariales para los sectores financiero , retail y ciberseguridad, con Angular, TypeScript, .NET/C#, Node.js/NestJS y AWS.
 
-- 🔭 &nbsp;Ahora mismo, blindando aplicaciones financieras con autenticación de nivel enterprise (AWS Cognito, JWT, Keycloak, Entra ID).
+- 🔭 &nbsp;Ahora mismo, blindando aplicaciones con autenticación de nivel enterprise (AWS Cognito, JWT, Keycloak, Entra ID).
 - 🌱 &nbsp;Profundizando en arquitectura backend, PostgreSQL y despliegues automatizados con Docker y CI/CD.
-- 💬 &nbsp;Puedo ayudarte con Angular, .NET/C#, Node.js o AWS.
+- 💬 &nbsp;Puedo ayudarte con Angular, .NET/C#, NestJS, Node.js o AWS.
 - 📫 &nbsp;Hablemos por [LinkedIn](https://linkedin.com/in/ifabridiaz).
 
-<br/>
 
-## Stack
 
-<div align="center">
-
-![Angular](https://img.shields.io/badge/Angular-7c3aed?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7c3aed?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-7c3aed?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-7c3aed?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
 
 
 
@@ -51,7 +32,7 @@ Ingeniero en TI con base en infraestructura y redes, hoy enfocado en desarrollo 
 
 <div align="center">
 
-¿Construyendo algo interesante? Conversemos en [LinkedIn](https://linkedin.com/in/ifabridiaz).
+¿Construyendo algo interesante? Escríbeme a [fabriciodiazpay@gmail.com](mailto:fabriciodiazpay@gmail.com).
 
 ![Profile views](https://komarev.com/ghpvc/?username=freykill&color=7c3aed&style=for-the-badge&label=Visitas+al+perfil)
 
