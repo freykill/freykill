@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Ingeniero en TI con base en infraestructura y redes, hoy enfocado en desarrollo full-stack: aplicaciones empresariales para los sectores financiero , retail y ciberseguridad, con Angular, TypeScript, .NET/C#, Node.js/NestJS y AWS.
+Ingeniero en TI con base en infraestructura y redes, hoy enfocado en desarrollo full-stack: aplicaciones empresariales para los sectores financiero, retail y ciberseguridad, con Angular, TypeScript, .NET/C#, Node.js/NestJS y AWS.
 
 - 🔭 &nbsp;Ahora mismo, blindando aplicaciones con autenticación de nivel enterprise (AWS Cognito, JWT, Keycloak, Entra ID).
 - 🌱 &nbsp;Profundizando en arquitectura backend, PostgreSQL y despliegues automatizados con Docker y CI/CD.
